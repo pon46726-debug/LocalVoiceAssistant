@@ -1,0 +1,10 @@
+customtkinter
+vosk
+pyaudio
+pipwin
+torch
+torchaudio
+soundfile
+pynput
+pillow
+pyinstaller
